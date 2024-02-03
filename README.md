@@ -8,14 +8,16 @@ Hello! I'm Ali Mohamed, a dedicated 3rd-year Bachelor of Science student at West
 
 I also enjoy video and audio production, proficient in tools like Adobe Creative Cloud and Audacity. Academically, I've developed strong problem-solving skills, thriving in team environments and tackling projects that demand both detail-oriented and big-picture thinking. Courses like Data Structure and Algorithms, and Object-Oriented Design have been pivotal in my growth. 
 
-Notable projects include leading the Crypto Trader Project, a successful crypto trading broker program, and creating "Family Fisticuffs," an award-winning game ported to PSVITA. I'm also committed to community service, certified in First Aid & CPR/AED Level C, and volunteered at Bit by Bit Computer Camp, mentoring children in technology. 
+Notable projects include leading the Crypto Trader Project, a successful crypto trading broker program, and creating "Family Fisticuffs," an award-winning game ported to PSVITA. I'm also committed to community service, certified in First Aid & CPR/AED Level C, and volunteered at Bit by Bit Computer Camp, mentoring children in technology.
+
+UPDATE: Recently got into mainframe computing, and Learning COBOL now :)
 
 If you're interested in a passionate collaborator for software or game development, or just want to connect, reach out! I'm eager to explore new opportunities and apply my skills to impactful projects.
 
 * 🌍  I'm based in London, ON
 * ✉️  You can contact me at [atm17871@gmail.com](mailto:atm17871@gmail.com)
 * 🚀  I'm currently working on [3D Combat Demo](http://github.com/alim395-UnityProjects/3DCombatDemo)
-* 🧠  I'm learning Unity, ReactJS, BootStrap, Hugging Face, Sentiment Analysis
+* 🧠  I'm learning Unity, ReactJS, BootStrap, Hugging Face, Sentiment Analysis, COBOL
 * 🤝  I'm open to collaborating on Indie Game Projects, Game Jams, Frontend Work
 * ⚡  Always Learning, Always moving forward.
 
