@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ali Mohamed
 ===================================================================================================================================
 
-Aspiring Game Developer and Web Developer
+Aspiring Software Engineer and Game Developer
 -----------------------------------------
 
 Hello! I'm Ali Mohamed, a dedicated 3rd-year Bachelor of Science student at Western University, specializing in Computer Science with a minor in Game Development. My passion lies in software and game development, where I excel in Python, JavaScript/TypeScript, Java, C#, C++, Unity, and Godot. 
