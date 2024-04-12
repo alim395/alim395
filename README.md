@@ -1,18 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ali Mohamed
 ===================================================================================================================================
 
-Aspiring Software Engineer and Game Developer
+Aspiring Mainframe Devloper, Software Engineer and Game Developer
 -----------------------------------------
 
-Hello! I'm Ali Mohamed, a dedicated 3rd-year Bachelor of Science student at Western University, specializing in Computer Science with a minor in Game Development. My passion lies in software and game development, where I excel in Python, JavaScript/TypeScript, Java, C#, C++, Unity, and Godot. 
+Hello! I'm Ali Mohamed, a dedicated 4th-year Bachelor of Science student at Western University, specializing in Computer Science with a minor in Game Development. My technical repertoire spans Python, JavaScript/TypeScript, Java, C#, C++, Unity, and Godot, fueling my passion for software and game development.
 
-I also enjoy video and audio production, proficient in tools like Adobe Creative Cloud and Audacity. Academically, I've developed strong problem-solving skills, thriving in team environments and tackling projects that demand both detail-oriented and big-picture thinking. Courses like Data Structure and Algorithms, and Object-Oriented Design have been pivotal in my growth. 
+Recently, I've expanded my expertise into mainframe computing, currently learning COBOL and having led the "Student Zenter" project—a mainframe-based initiative to modernize university student center services using IBM Z technology. This project not only honed my skills in COBOL, JCL, and Java but also enhanced my understanding of large-scale system reliability and data security.
 
-Notable projects include leading the Crypto Trader Project, a successful crypto trading broker program, and creating "Family Fisticuffs," an award-winning game ported to PSVITA. I'm also committed to community service, certified in First Aid & CPR/AED Level C, and volunteered at Bit by Bit Computer Camp, mentoring children in technology.
+In addition to my technical pursuits, I am proficient in video and audio production with tools like Adobe Creative Cloud and Audacity. Academically, I've excelled in courses such as Data Structures and Algorithms, and Object-Oriented Design, developing strong problem-solving skills and thriving in team environments.
 
-UPDATE: Recently got into mainframe computing, and Learning COBOL now :)
-
-If you're interested in a passionate collaborator for software or game development, or just want to connect, reach out! I'm eager to explore new opportunities and apply my skills to impactful projects.
+If you’re interested in a passionate collaborator for software or game development, or just want to connect, reach out! I'm eager to explore new opportunities and apply my skills to impactful projects.
 
 * 🌍  I'm based in London, ON
 * ✉️  You can contact me at [atm17871@gmail.com](mailto:atm17871@gmail.com)
