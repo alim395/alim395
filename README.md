@@ -16,7 +16,7 @@ If you’re interested in a passionate collaborator for software or game develop
 * ✉️  You can contact me at [atm17871@gmail.com](mailto:atm17871@gmail.com)
 * 🚀  I'm currently working on [3D Combat Demo](http://github.com/alim395-UnityProjects/3DCombatDemo)
 * 🧠  I'm learning Unity, ReactJS, BootStrap, Hugging Face, Sentiment Analysis, COBOL
-* 🤝  I'm open to collaborating on Indie Game Projects, Game Jams, Frontend Work
+* 🤝  I'm open to collaborating on Indie Game Projects, Game Jams, Frontend Work, Mainframe Projects
 * ⚡  Always Learning, Always moving forward.
 
 ### Skills
