@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ali Mohamed
 ===================================================================================================================================
 
-Aspiring Mainframe Devloper, Software Engineer and Game Developer
+Aspiring Software Developer, Game Developer, and Mainframe Enthusiast.
 -----------------------------------------
 
 Hello! I'm Ali Mohamed, a dedicated 4th-year Bachelor of Science student at Western University, specializing in Computer Science with a minor in Game Development. My technical repertoire spans Python, JavaScript/TypeScript, Java, C#, C++, Unity, and Godot, fueling my passion for software and game development.
